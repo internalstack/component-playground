@@ -92,7 +92,8 @@ server.statefulSession(async(io, { user, sessionId }) => {
           resultsToDisplay: chunk(matchingRecords, 10)[page - 1]
         }
       }, {
-        resultsPerPage: 10
+        resultsPerPage: 10,
+        filterPlaceholder: 'Enter an email'
       })
     }
     if (componentChoice === 'text') {
