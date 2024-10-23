@@ -2,6 +2,9 @@
 
 This repository provides an example InternalStack app server that showcases every component.
 
+Hosted component playground:
+https://internalstack.dev/internalstack/playground
+
 ## Getting Started
 
 ### Setup
