@@ -20,7 +20,7 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "@internalstack/server": "1.0.12",
+    "@internalstack/server": "1.0.14",
     "@ngneat/falso": "7.2.0",
     "lodash-es": "4.17.21"
   }
