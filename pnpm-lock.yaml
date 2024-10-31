@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@internalstack/server':
-    specifier: 1.0.19
-    version: 1.0.19
+    specifier: 1.0.20
+    version: 1.0.20
   '@ngneat/falso':
     specifier: 7.2.0
     version: 7.2.0
@@ -247,8 +247,8 @@ packages:
     dev: true
     optional: true
 
-  /@internalstack/server@1.0.19:
-    resolution: {integrity: sha512-ajByilx/rlIqmjTYGeMGruqUcJkJ2tyD++SE27/bf+WOUPpnaCANddqFDKET8FiY8a8Sm1qsu9BiQQoUo4QaNQ==}
+  /@internalstack/server@1.0.20:
+    resolution: {integrity: sha512-v0DD1lPAXlCz41AOLVRZU2pKW8rG19DqolKxv5StxwD8Rs53E5IZTMm0jDeluctVJUrsgav+Q6OzpUDoV92cOg==}
     engines: {node: '>=22.0.0'}
     dependencies:
       consola: 3.2.3
