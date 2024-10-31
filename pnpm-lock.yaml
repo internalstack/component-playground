@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@internalstack/server':
-    specifier: 1.0.14
-    version: 1.0.14
+    specifier: 1.0.19
+    version: 1.0.19
   '@ngneat/falso':
     specifier: 7.2.0
     version: 7.2.0
@@ -247,13 +247,14 @@ packages:
     dev: true
     optional: true
 
-  /@internalstack/server@1.0.14:
-    resolution: {integrity: sha512-49HEW6YOrZcfLT4h5vF2s95h+u2oxnjbvg8IZ3TI0SadtOS+Lcv9yYN8eHTqVUceZsPQtLdEXxWUyyJulaA09w==}
+  /@internalstack/server@1.0.19:
+    resolution: {integrity: sha512-ajByilx/rlIqmjTYGeMGruqUcJkJ2tyD++SE27/bf+WOUPpnaCANddqFDKET8FiY8a8Sm1qsu9BiQQoUo4QaNQ==}
     engines: {node: '>=22.0.0'}
     dependencies:
       consola: 3.2.3
       destr: 2.0.3
       jwt-decode: 4.0.0
+      lodash-es: 4.17.21
       nanoid: 5.0.7
       ofetch: 1.4.1
       websocket-ts: 2.1.5
